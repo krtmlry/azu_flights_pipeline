@@ -156,3 +156,7 @@ The table will have three columns: `sk_id`, `aircraft_icao` and `passenger_count
 |`sk_id` | Generated surrogate key for each flight record |
 |`aircraft_icao`| aircraft_icao code of aircraft |
 |`passenger_count`| aircraft_icao code of aircraft |
+
+
+### Fact and dimension tables Entity Relationship Diagram
+![erd](https://github.com/krtmlry/azu_flights_pipeline/blob/main/img/azu_flights_erd.png)
