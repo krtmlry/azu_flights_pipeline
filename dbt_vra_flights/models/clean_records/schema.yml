@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: source_dim_facts
+    database: anac_vra_flights
+    schema: dim_facts
+    tables:
+      - name: dim_aircrafts
+      - name: dim_airports
+      - name: dim_flight_status
+      - name: dim_line_types
+      - name: dim_flight_situation

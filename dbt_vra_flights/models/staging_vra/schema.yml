@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: vra_raw_records
+    database: anac_vra_flights
+    schema: staging_vra
+    tables:
+      - name: vra_raw_landing
+      

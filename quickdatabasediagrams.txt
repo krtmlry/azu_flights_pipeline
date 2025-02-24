@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+dim_datetime
+---
+sk_id varchar
+scheduled_departure timestamp
+actual_departure timestamp
+departure_time_diff float
+departure_situation varchar
+scheduled_arrival timestamp
+actual_arrival timestamp
+arrival_time_diff float
+arrival_situation varchar
+expected_flight_duration float
+actual_flight_duration float
+
+
+
+dim_datetime_breakdown
+---
+sk_id varchar FK - dim_datetime.sk_id
+scheduled_departure_day        int         
+scheduled_departure_month      int         
+scheduled_departure_year       int         
+scheduled_departure_dow        int         
+scheduled_departure_month_name varchar        
+scheduled_departure_day_name   varchar        
+scheduled_departure_date       date
+actual_departure_day           int       
+actual_departure_month         int       
+actual_departure_year          int       
+actual_departure_dow           int       
+actual_departure_month_name    varchar        
+actual_departure_day_name      varchar        
+actual_departure_date          date
+scheduled_arrival_day          int         
+scheduled_arrival_month        int         
+scheduled_arrival_year         int         
+scheduled_arrival_dow          int         
+scheduled_arrival_month_name   varchar        
+scheduled_arrival_day_name     varchar        
+scheduled_arrival_date         date
+actual_arrival_day             int       
+actual_arrival_month           int       
+actual_arrival_year            int       
+actual_arrival_dow             int       
+actual_arrival_month_name      varchar        
+actual_arrival_day_name        varchar        
+actual_arrival_date            date
+
+
+
+dim_flight_situation
+---
+situation_id varchar
+situation_short_desc varchar
+situation_desc varchar
+
+
+dim_flight_status
+---
+status_id int
+description varchar
+
+
+
+
+
+dim_airports
+---
+airport_icao varchar
+airport_iata varchar
+airport_name varchar
+latitude float
+longitude float
+country_iso varchar
+country varchar
+
+
+dim_line_types
+---
+line_type_code varchar
+description varchar
+
+
+fact_table
+---
+sk_id varchar
+flight_number        varchar
+airline_icao         varchar
+passenger_count      int
+mod_flag             int
+orig_airport_icao varchar FK >- dim_airports.airport_icao
+dest_airport_icao varchar FK >- dim_airports.airport_icao
+line_type_code varchar FK >- dim_line_types.line_type_code
+flight_status int FK >- dim_flight_status.status_id
+departure_situation varchar FK >- dim_flight_situation.situation_id
+arrival_situation varchar FK >- dim_flight_situation.situation_id
+flight_schedule_id varchar FK - dim_datetime.sk_id
+
+
+
+
+
+
+
+

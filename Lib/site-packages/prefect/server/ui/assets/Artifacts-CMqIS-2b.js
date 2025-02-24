@@ -1,0 +1,2 @@
+import{d as o,c as r,j as a,k as c,o as n,l as e,m as t,aQ as _,aR as f}from"./index-Bjo-kBX5.js";import{u as l}from"./usePageTitle-D7LXNzIC.js";const h=o({__name:"Artifacts",setup(p){return l("Artifacts"),(u,m)=>{const s=c("p-layout-default");return n(),r(s,{class:"artifacts"},{header:a(()=>[e(t(_))]),default:a(()=>[e(t(f))]),_:1})}}});export{h as default};
+//# sourceMappingURL=Artifacts-CMqIS-2b.js.map

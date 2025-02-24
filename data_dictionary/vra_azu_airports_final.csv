@@ -1,0 +1,158 @@
+airport_icao,airport_iata,airport_name,latitude,longitude,country_iso,country
+EBBR,BRU,Brussels Airport,50.901034,4.478627,BE,Belgium
+EHAM,AMS,Amsterdam Airport Schiphol,52.326979,4.741505,NL,Netherlands
+KFLL,FLL,Fort Lauderdale-Hollywood International Airport,26.072017,-80.150997,US,United States
+KMCO,MCO,Orlando International Airport,28.412904,-81.309443,US,United States
+KORD,ORD,O'Hare International Airport,41.977957,-87.909176,US,United States
+LFPO,ORY,Paris Orly Airport,48.748477,2.355722,FR,France
+LPPR,OPO,Porto Airport,41.24883,-8.681037,PT,Portugal
+LPPT,LIS,Lisbon Portela Airport,38.780954,-9.131901,PT,Portugal
+MGGT,GUA,La Aurora International Airport,14.583317,-90.52716,GT,Guatemala
+MMMX,MEX,Benito Juarez International Airport,19.435278,-99.07278,MX,Mexico
+MPTO,PTY,Tocumen International Airport,9.066781,-79.381482,PA,Panama
+MSLP,SAL,El Salvador International Airport,13.450925,-89.052405,SV,El Salvador
+SAAR,ROS,Fisherton Airport,-32.933334,-60.783333,AR,Argentina
+SACO,COR,Ingeniero Aeronautico Ambrosio L.V. Taravella International Airport,-31.31548,-64.21377,AR,Argentina
+SAEZ,EZE,Ministro Pistarini Airport,-34.816814,-58.547423,AR,Argentina
+SAZS,BRC,San Carlos de Bariloche International Airport,-41.145966,-71.16109,AR,Argentina
+SBAC,ARX,Asbury Park,40.216667,-74.1,US,United States
+SBAE,JTC,Bauru-Arealva Airport,-22.157058,-49.075159,BR,Brazil
+SBAQ,AQA,Araraquara,-21.816668,-48.13333,BR,Brazil
+SBAR,AJU,Aracaju Airport,-10.982812,-37.076025,BR,Brazil
+SBAT,AFL,Alta Floresta Airport,-9.866163,-56.106038,BR,Brazil
+SBAU,ARU,Aracatuba Airport,-21.140815,-50.425139,BR,Brazil
+SBAX,AAX,Araxa Airport,-19.563132,-46.960406,BR,Brazil
+SBBE,BEL,Val De Cans International Airport,-1.379858,-48.479646,BR,Brazil
+SBBH,PLU,Belo Horizonte Airport,-19.75,-43.75,BR,Brazil
+SBBR,BSB,Brasilia International Airport,-15.871748,-47.911722,BR,Brazil
+SBBV,BVB,Boa Vista Airport,2.833333,-60.666668,BR,Brazil
+SBBW,BPG,Barra Do Garcas,-15.860672,-52.390067,BR,Brazil
+SBCA,CAC,Cascavel Airport,-24.95,-53.466667,BR,Brazil
+SBCB,CFB,Cabo Frio International Airport,-22.923361,-42.076586,BR,Brazil
+SBCF,CNF,Tancredo Neves International Airport,-19.633398,-43.968369,BR,Brazil
+SBCG,CGR,Campo Grande International Airport,-20.471577,-54.682246,BR,Brazil
+SBCH,XAP,Chapeco Airport,-27.088612,-52.629723,BR,Brazil
+SBCJ,CKS,Carajas Airport,-6.116556,-49.997743,BR,Brazil
+SBCN,CLV,Caldas Novas,-17.72479,-48.608174,BR,Brazil
+SBCP,CAW,Bartolomeu Lisandro Airport,-21.75,-41.3,BR,Brazil
+SBCR,CMG,Corumba Internacional Airport,-19.012578,-57.669759,BR,Brazil
+SBCT,CWB,Afonso Pena International Airport,-25.5322,-49.176544,BR,Brazil
+SBCX,CXJ,Hugo Cantergiani Regional Airport,-29.19706,-51.186165,BR,Brazil
+SBCY,CGB,Marechal Rondon International Airport,-15.651725,-56.120266,BR,Brazil
+SBCZ,CZS,Campo Internacional Airport,-7.583333,-72.78333,BR,Brazil
+SBDB,BYO,Bonito Airport,-21.24943,-56.451909,BR,Brazil
+SBDN,PPB,A. De Barros Airport,-22.1,-51.45,BR,Brazil
+SBDO,DOU,Dourados Airport,-22.201406,-54.926402,BR,Brazil
+SBEG,MAO,Eduardo Gomes International Airport,-3.035538,-60.045753,BR,Brazil
+SBFI,IGU,Cataratas International Airport,-25.593062,-54.490609,BR,Brazil
+SBFL,FLN,Hercilio Luz International Airport,-27.670113,-48.544686,BR,Brazil
+SBFN,FEN,Fernando De Noronha Airport,-3.854686,-32.42275,BR,Brazil
+SBFZ,FOR,Pinto Martins Airport,-3.779073,-38.540836,BR,Brazil
+SBGL,GIG,Galeao Antonio Carlos Jobim International Airport,-22.81122,-43.25862,BR,Brazil
+SBGO,GYN,Santa Genoveva Airport,-16.632631,-49.226624,BR,Brazil
+SBGR,GRU,Sao Paulo-Guarulhos International Airport,-23.437795,-46.481321,BR,Brazil
+SBGV,GVR,Governador Valadares Airport,-18.850279,-41.933334,BR,Brazil
+SBHT,ATM,Altamira Airport,-3.2,-52.216667,BR,Brazil
+SBIH,ITB,Itaituba,-4.283333,-55.983334,BR,Brazil
+SBIL,IOS,Ilheus/Bahia-Jorge Amado Airport,-14.813889,-39.03,BR,Brazil
+SBIP,IPN,Usiminas Airport,-19.5,-42.533333,BR,Brazil
+SBIZ,IMP,Imperatriz Airport,-5.530127,-47.458008,BR,Brazil
+SBJA,JJG,Jaguaruna Regional Airport,-28.667261,-49.054378,BR,Brazil
+SBJE,JJD,Jericoacoara,-2.906146,-40.357154,BR,Brazil
+SBJI,JPR,Ji-Parana Airport,-10.870556,-61.84667,BR,Brazil
+SBJP,JPA,Presidente Castro Pinto International Airport,-7.148931,-34.950306,BR,Brazil
+SBJU,JDO,Orlando Bezerra de Menezes Airport,-7.2,-39.316666,BR,Brazil
+SBJV,JOI,Joinville-Lauro Carneiro de Loyola Airport,-26.224969,-48.798622,BR,Brazil
+SBKG,CPV,Joao Suassuna Airport,-7.270161,-35.896097,BR,Brazil
+SBKP,VCP,Viracopos Airport,-23.006056,-47.141843,BR,Brazil
+SBLE,LEC,Coronel Horacio de Mattos Airport,-12.48,-41.281113,BR,Brazil
+SBLJ,LAJ,Correia Pinto Airport,-27.8,-50.316666,BR,Brazil
+SBLO,LDB,Londrina Airport,-23.328457,-51.137714,BR,Brazil
+SBMA,MAB,Maraba Airport,-5.366667,-49.166668,BR,Brazil
+SBME,MEA,Macae,-22.343171,-41.765774,BR,Brazil
+SBMG,MGF,Regional De Maringa,-23.383612,-51.933334,BR,Brazil
+SBMK,MOC,Montes Claros Airport,-16.705181,-43.820083,BR,Brazil
+SBML,MII,Dr Gastao Vidigal Airport,-22.2,-49.933334,BR,Brazil
+SBMO,MCZ,Maceio-Zumbi dos Palmares International Airport,-9.512521,-35.800446,BR,Brazil
+SBMQ,MCP,Macapa International Airport,0.050578,-51.0706,BR,Brazil
+SBMS,MVF,Dixsept Rosado,-5.166667,-37.25,BR,Brazil
+SBNF,NVT,Navegantes Airport,-26.878429,-48.649354,BR,Brazil
+SBNM,GEL,Sepe Tiaraju,-28.28342,-54.165612,BR,Brazil
+SBPA,POA,Salgado Filho International Airport,-29.995268,-51.16748,BR,Brazil
+SBPB,PHB,Santos Dumont,-2.891667,-41.738335,BR,Brazil
+SBPF,PFB,Passo Fundo Airport,-28.243524,-52.326699,BR,Brazil
+SBPG,PGZ,Comte Antonio Amilton Beraldo Airport,-25.083332,-50.15,BR,Brazil
+SBPJ,PMW,Palmas Airport,-10.241667,-48.35278,BR,Brazil
+SBPK,PET,Federal Airport,-31.718056,-52.324444,BR,Brazil
+SBPL,PNZ,Petrolina International Airport,-9.393333,-40.490555,BR,Brazil
+SBPO,PTO,Pato Branco,-26.216994,-52.694226,BR,Brazil
+SBPP,PMG,International,-22.55,-55.7,BR,Brazil
+SBPS,BPS,Porto Seguro Airport,-16.438984,-39.083367,BR,Brazil
+SBPV,PVH,Porto Velho International Airport,-8.709903,-63.900494,BR,Brazil
+SBRB,RBR,Pres. Medici Airport,-9.966667,-67.8,BR,Brazil
+SBRD,ROO,Rondonopolis Airport,-16.433332,-54.716667,BR,Brazil
+SBRF,REC,Guararapes-Gilberto Freyre International Airport,-8.125678,-34.922718,BR,Brazil
+SBRJ,SDU,Santos Dumont Airport,-22.910444,-43.164186,BR,Brazil
+SBRP,RAO,Dr. Leite Lopes State Airport,-21.135834,-47.773335,BR,Brazil
+SBSG,NAT,Sao Goncalo do Amarante-Governador Aluizio Alves Intl Airport,-5.916787,-35.250244,BR,Brazil
+SBSI,OPS,Sinop Airport,-11.885074,-55.585581,BR,Brazil
+SBSJ,SJK,Sao Jose Dos Campos,-23.183332,-46.11667,BR,Brazil
+SBSL,SLZ,Marechal Cunha Machado International Airport,-2.588991,-44.239408,BR,Brazil
+SBSM,RIA,Santa Maria Airport,-29.710556,-53.6875,BR,Brazil
+SBSN,STM,Santarem-Maestro Wilson Fonseca Airport,-2.427139,-54.804456,BR,Brazil
+SBSO,SMT,Sun Moon Lake,23.883333,120.933334,TW,Taiwan
+SBSP,CGH,Sao Paulo/Congonhas Airport,-23.626902,-46.659557,BR,Brazil
+SBSR,SJP,Sao Jose do Rio Preto Airport,-20.817315,-49.408468,BR,Brazil
+SBSV,SSA,Deputado Luis Eduardo Magalhaes International Airport,-12.91102,-38.334975,BR,Brazil
+SBTB,TMT,Trombetas,-1.916667,-55.583332,BR,Brazil
+SBTC,UNA,Una,-15.353333,-38.997223,BR,Brazil
+SBTD,TOW,Toledo,-24.69861,-53.69611,BR,Brazil
+SBTE,THE,Teresina Airport,-5.059874,-42.82351,BR,Brazil
+SBTF,TFF,Tefe Airport,-3.382404,-64.724608,BR,Brazil
+SBTG,TJL,Três Lagoas Airport,-20.754444,-51.683889,BR,Brazil
+SBTT,TBT,Tabatinga International Airport,-4.233333,-69.933334,BR,Brazil
+SBUA,SJL,Da Cachoeira,-0.148311,-66.985573,BR,Brazil
+SBUF,PAV,Paulo Afonso Airport,-9.400583,-38.250026,BR,Brazil
+SBUG,URG,Ruben Berta Airport,-29.781668,-57.038334,BR,Brazil
+SBUL,UDI,Uberlandia-Ten. Cel. Av. Cesar Bombonato Airport,-18.9,-48.233334,BR,Brazil
+SBUR,UBA,Uberaba Airport,-19.776388,-47.958332,BR,Brazil
+SBVC,VDC,Vitoria Da Conquista Airport,-14.864508,-40.862789,BR,Brazil
+SBVG,VAG,Major-Brigadeiro Trompowsky Airport,-21.55,-45.433334,BR,Brazil
+SBVH,BVH,Vilhena Airport,-12.694082,-60.098754,BR,Brazil
+SBVT,VIX,Eurico de Aguiar Salles Airport,-20.256093,-40.281357,BR,Brazil
+SBZM,IZA,Zona da Mata Regional Airport,-21.513056,-43.173058,BR,Brazil
+SCEL,SCL,Arturo Merino Benitez Airport,-33.397175,-70.79382,CL,Chile
+SDIY,FEC,Feira De Santana,-12.200134,-38.908418,BR,Brazil
+SEGU,GYE,Jose Joaquin de Olmedo Airport,-2.142654,-79.88032,EC,Ecuador
+SLVR,VVI,Viru Viru International Airport,-17.659481,-63.138466,BO,Bolivia
+SNBR,BRA,Barreiras Airport,-12.079481,-45.009705,BR,Brazil
+SNCP,EEA,Aeroporto Regional do Planalto Serrano,-27.631949,-50.349634,BR,Brazil
+SNDV,DIQ,Divinopolis,-20.18147,-44.870045,BR,Brazil
+SNGI,GNM,Guanambi,-14.3,-42.783333,BR,Brazil
+SNPD,POJ,Patos De Minas,-18.672915,-46.491925,BR,Brazil
+SNTF,TXF,Teixeira de Freitas Airport,-7.133333,-37.183334,BR,Brazil
+SNVB,VAL,Valenca,-13.333333,-39.083332,BR,Brazil
+SOCA,CAY,Felix Eboue Airport,4.820737,-52.363057,GF,French Guiana
+SPJC,LIM,Jorge Chavez International Airport,-12.021783,-77.111238,PE,Peru
+SSGG,GPB,Tancredo Thomaz Faria,-25.333332,-51.5,BR,Brazil
+SSKW,OAL,Cacoal Airport,-11.433889,-61.4825,BR,Brazil
+SULS,PDP,Capitan de Corbeta Carlos A. Curbelo International Airport,-34.914444,-54.919167,UY,Uruguay
+SUMU,MVD,Carrasco International Airport,-34.830432,-56.022014,UY,Uruguay
+SWEI,ERN,Eirunepe,-6.583333,-69.88333,BR,Brazil
+SWLC,RVD,Rio Verde Airport,-17.716667,-50.933334,BR,Brazil
+SWPI,PIN,Parintins,-2.67318,-56.777271,BR,Brazil
+TJSJ,SJU,Luis Munoz Marin International Airport,18.443199,-65.99743,PR,Puerto Rico
+TNCC,CUR,Curacao International Airport,12.189029,-68.962161,CW,Curaçao
+ZBAA,PEK,Beijing Capital International Airport,40.079156,116.59426,CN,China
+ZSHC,HGH,Hangzhou Xiaoshan International Airport,30.236873,120.429124,CN,China
+ZSQD,TAO,Qingdao Liuting International Airport,36.267991,120.376793,CN,China
+KPVG,NO IATA,Hampton Roads Executive Airport,36.780278,-76.448889,US,United States
+SBFE,FEC,Feira de Santana Airport,-12.200556,-38.906389,BR,Brazil
+SBQV,NO IATA,Pedro Otacílio Figueiredo Airport,14.863611,-40.863056,BR,Brazil
+SNGV,GVR,Aeroporto Coronel Altino Machado,-18.8968,-41.9861,BR,Brazil
+SSPB,PTO,Pato Branco Airport,-26.217222,-52.694444,BR,Brazil
+SSZW,PGZ,Ponta Grossa Airport,25.1947,50.1441,BR,Brazil
+SWJI,JPR,Ji-Paraná Airport,10.870556,-61.846667,BR,Brazil
+SWKN,CLV,Caldas Novas Airport,17.725,48.606389,BR,Brazil
+SWKQ,NO IATA,Serra da Capivara Airport,9.083333,-42.644722,BR,Brazil
+SWSI,OPS,Presidente João Batista Figueiredo Airport,-11.885,-55.586111,BR,Brazil

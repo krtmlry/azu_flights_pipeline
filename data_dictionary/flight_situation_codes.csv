@@ -1,0 +1,7 @@
+situation_id,situation_short_desc,situation_desc
+A,Advanced,When actual departure or arrival is ahead of schedule
+P,Punctual,When actual departure or arrival is exactly on schedule or within +30 minutes from schedule
+D1,Delay 30-60,When delay is between 31 to 60 minutes
+D2,Delay 60-120,When delay is between 61 to 120 minutes
+D3,Delay 120-240,When delay is between 121 to 240 minutes
+D4,Delay > 240,When delay is more than 240 minutes

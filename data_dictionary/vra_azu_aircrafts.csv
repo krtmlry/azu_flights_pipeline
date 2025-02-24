@@ -1,0 +1,22 @@
+aircraft_icao,aircraft_iata,model_name,manufacturer
+A20N,32N,Airbus A320neo,Airbus
+A339,339,Airbus A330-900neo,Airbus
+AT72,AT7,Aerospatiale/Alenia ATR 72,Aerospatiale
+B734,734,Boeing 737-400,Boeing
+A321,321,Airbus A321,Airbus
+AT76,ATR,Aerospatiale/Alenia ATR 72-600,Aerospatiale
+A320,32A,Airbus A320 (sharklets),Airbus
+A359,359,Airbus A350-900,Airbus
+A321,32B,Airbus A321 (sharklets),Airbus
+A21N,32Q,Airbus A321neo,Airbus
+A332,332,Airbus A330-200,Airbus
+A320,320,Airbus A320,Airbus
+E190,E90,Embraer 190,Embraer
+E295,295,Embraer E195-E2,Embraer
+E170,E70,Embraer 170,Embraer
+E195,E95,Embraer 195,Embraer
+E190,E90,Embraer Lineage 1000,Embraer
+B73P,73P,Boeing 737-400 Freighter,Boeing
+A330,330,Airbus A330,Airbus
+C082,Unidentified,Unidentified,Unidentified
+AN22,A22,An-22 Antheus,Antonov
