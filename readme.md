@@ -17,7 +17,9 @@ The dataset contains records where `actual_departure` and `actual_arrival` is nu
 
 To accomodate records where `actual_departure` and `actual_arrival` is missing but the flight was accomplished; the scheduled_departure and scheduled_arrival will be used respsectively and an additional column named `mod_flag` where `1 = departure and arrival date is assumed` and `0 = departure and arrival date is not assumed`.
 
-Justificativa column is a column reserved for 
+Justificativa column is used to indicate the justification description for flight delay or cancellation. This column is extremely useful for future analysis but I could not find the file or dataset for all justification codes and description.
+
+The justificativa column will not be included temporarily and will be updated later on if I manage to find the dataset containing all details needed.
 
 
 # Pre-requisites
